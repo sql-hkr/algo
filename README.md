@@ -2,6 +2,13 @@
 
 本レポジトリのアルゴリズム実装例は下記の通りである．
 
+## 数学
+
+### ユークリッドの互除法(Euclidean algorithm)
+
+[[code]](math/gcd.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+
 ## 探索
 
 ### 線形探索(Linear search)
