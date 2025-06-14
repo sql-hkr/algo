@@ -4,18 +4,25 @@
 
 ## 探索
 
-### 線型探索(Linear search)
+### 線形探索(Linear search)
 
-n 個のデータから 1 個のデータを探索する場合，比較回数は高々 n 回である．（O(n)）
+$n$個のデータから$1$個のデータを探索する場合，比較回数は高々$n$回である．最悪計算時間は，$O(n)$．
 
 [[code]](search/linear_search.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Linear_search)
+
+### 二分探索(Binary search)
+
+$n$個のデータから$1$個のデータを探索する場合，比較回数は高々 $\log_2 n+1$ 回である．最悪計算時間は，$O(\log n)$．
+
+[[code]](search/binary_search.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Binary_search)
 
 ## ソート
 
 ### バブルソート(Bubble sort)
 
-比較回数は，高々 n(n-1)/2 回である．（O(n^2)）
+比較回数は，高々$n(n-1)/2$回である．最悪計算時間は，$O(n^2)$．
 
 [[code]](sorting/bubble_sort.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Bubble_sort)
