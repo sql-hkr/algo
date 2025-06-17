@@ -27,6 +27,13 @@ n 個のデータから 1 個のデータを探索する場合，比較回数は
 
 ## ソート
 
+### バブルソート(Bubble sort)
+
+比較回数は，高々 n(n-1)/2 回である．最悪計算時間は，O(n^2)．
+
+[[code]](sorting/bubble_sort.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Bubble_sort)
+
 ### 選択ソート(Selection sort)
 
 比較回数は，高々 n(n-1)/2 回である．最悪計算時間は，O(n^2)．
@@ -34,9 +41,9 @@ n 個のデータから 1 個のデータを探索する場合，比較回数は
 [[code]](sorting/selection_sort.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Selection_sort)
 
-### バブルソート(Bubble sort)
+### 挿入ソート(Insertion sort)
 
 比較回数は，高々 n(n-1)/2 回である．最悪計算時間は，O(n^2)．
 
-[[code]](sorting/bubble_sort.cpp),
-[[wiki]](https://en.wikipedia.org/wiki/Bubble_sort)
+[[code]](sorting/insertion_sort.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Insertion_sort)
