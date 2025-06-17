@@ -47,3 +47,10 @@ n 個のデータから 1 個のデータを探索する場合，比較回数は
 
 [[code]](sorting/insertion_sort.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Insertion_sort)
+
+### クイックソート(Quicksort)
+
+比較回数は，高々 n(n-1)/2 回である．最悪計算時間は，O(n^2)．
+
+[[code]](sorting/quick_sort.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Quicksort)
