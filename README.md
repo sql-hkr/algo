@@ -54,3 +54,8 @@ n 個のデータから 1 個のデータを探索する場合，比較回数は
 
 [[code]](sorting/quick_sort.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Quicksort)
+
+### マージソート(Merge sort)
+
+[[code]](sorting/merge_sort.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Merge_sort)
