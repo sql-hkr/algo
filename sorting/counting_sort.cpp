@@ -7,8 +7,8 @@ template <typename T>
 void counting_sort(vector<T> &arr)
 {
     int n = arr.size();
-    std::vector<T> tmp(n);
-    std::copy(arr.begin(), arr.end(), tmp.begin());
+    vector<T> tmp(n);
+    copy(arr.begin(), arr.end(), tmp.begin());
     int max = *max_element(arr.begin(), arr.end());
     int min = *min_element(arr.begin(), arr.end());
     vector<T> count(max - min + 1, 0);
