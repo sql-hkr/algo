@@ -9,6 +9,11 @@
 [[code]](math/gcd.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
+### ニュートン法(Newton's method)
+
+[[code]](math/newton.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Newton%27s_method)
+
 ## 探索
 
 ### 線形探索(Linear search)
