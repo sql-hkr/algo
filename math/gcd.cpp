@@ -2,15 +2,17 @@
 
 using namespace std;
 
+int _gcd(int a, int b)
+{
+    return b == 0 ? a : _gcd(b, a % b);
+}
+
 int gcd(int a, int b)
 {
-    if (a == 0)
-        return b;
-    if (b == 0)
-        return a;
-    if (a == b)
-        return a;
-    return a > b ? gcd(a - b, b) : gcd(a, b - a);
+
+    if (a < b)
+        swap(a, b);
+    return _gcd(a, b);
 }
 
 int main()
