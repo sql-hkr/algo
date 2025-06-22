@@ -14,6 +14,11 @@
 [[code]](math/newton.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Newton%27s_method)
 
+### ガウスの消去法(Gaussian elimination)
+
+[[code]](math/gauss.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Gaussian_elimination)
+
 ## 探索
 
 ### 線形探索(Linear search)
