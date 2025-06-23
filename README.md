@@ -19,6 +19,11 @@
 [[code]](math/gauss.cpp),
 [[wiki]](https://en.wikipedia.org/wiki/Gaussian_elimination)
 
+### 素数判定法(Primality test)
+
+[[code]](math/check_prime.cpp),
+[[wiki]](https://en.wikipedia.org/wiki/Primality_test)
+
 ## 探索
 
 ### 線形探索(Linear search)
