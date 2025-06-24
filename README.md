@@ -4,9 +4,9 @@
 
 - 数学
     - [ユークリッドの互除法(Euclidean algorithm)](https://en.wikipedia.org/wiki/Euclidean_algorithm), [[code]](math/gcd.cpp)
-    - [ニュートン法(Newton's method)]((https://en.wikipedia.org/wiki/Newton%27s_method)), [[code]](math/newton.cpp)
+    - [ニュートン法(Newton's method)](https://en.wikipedia.org/wiki/Newton%27s_method), [[code]](math/newton.cpp)
     - [ガウスの消去法(Gaussian elimination)](https://en.wikipedia.org/wiki/Gaussian_elimination), [[code]](math/gauss.cpp)
-    - [素数判定法(Primality test)]((https://en.wikipedia.org/wiki/Primality_test)), [[code]](math/check_prime.cpp)
+    - [素数判定法(Primality test)](https://en.wikipedia.org/wiki/Primality_test), [[code]](math/check_prime.cpp)
 - 探索
     - [線形探索(Linear search)](https://en.wikipedia.org/wiki/Linear_search), [[code]](search/linear_search.cpp)
     - [二分探索(Binary search)](https://en.wikipedia.org/wiki/Binary_search), [[code]](search/binary_search.cpp)
