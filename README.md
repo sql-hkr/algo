@@ -18,4 +18,5 @@
     - [クイックソート(Quicksort)](https://en.wikipedia.org/wiki/Quicksort), [[code]](sorting/quick_sort.cpp)
     - [マージソート(Merge sort)](https://en.wikipedia.org/wiki/Merge_sort), [[code]](sorting/merge_sort.cpp)
 - グラフ理論における最短経路問題
-    - [ダイクストラ法](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [[code]](graph/dijstra.cpp)
+    - [ダイクストラ法(Dijkstra's algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [[code]](graph/dijstra.cpp)
+    - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm), [[code]](graph/a-star.cpp)
