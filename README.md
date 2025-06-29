@@ -4,6 +4,7 @@
 
 - 数学
     - [ユークリッドの互除法(Euclidean algorithm)](https://en.wikipedia.org/wiki/Euclidean_algorithm), [[code]](math/gcd.cpp)
+    - [最小公倍数(Least common multiple)](https://en.wikipedia.org/wiki/Least_common_multiple), [[code]](math/lcm.cpp)
     - [ニュートン法(Newton's method)](https://en.wikipedia.org/wiki/Newton%27s_method), [[code]](math/newton.cpp)
     - [ガウスの消去法(Gaussian elimination)](https://en.wikipedia.org/wiki/Gaussian_elimination), [[code]](math/gauss.cpp)
     - [素数判定法(Primality test)](https://en.wikipedia.org/wiki/Primality_test), [[code]](math/check_prime.cpp)
@@ -21,4 +22,4 @@
     - [ダイクストラ法(Dijkstra's algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [[code]](graph/dijstra.cpp)
     - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm), [[code]](graph/a-star.cpp)
 - 暗号
-    - [RSA暗号](https://en.wikipedia.org/wiki/RSA_cryptosystem), [[code]](crypto/rsa.cpp)
+    - [RSA暗号(RSA cryptosystem)](https://en.wikipedia.org/wiki/RSA_cryptosystem), [[code]](crypto/rsa.cpp)
