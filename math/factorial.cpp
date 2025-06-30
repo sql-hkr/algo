@@ -2,7 +2,7 @@
 
 using namespace std;
 
-unsigned int factorial(unsigned int n)
+unsigned long long factorial(unsigned int n)
 {
 
     return n == 0 ? 1 : n * factorial(n - 1);
