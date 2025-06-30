@@ -3,6 +3,7 @@
 本レポジトリのアルゴリズム実装例は下記の通りである．
 
 - 数学
+    - [階乗(Factorial)](https://en.wikipedia.org/wiki/Factorial), [[code]](math/factorial.cpp)
     - [ユークリッドの互除法(Euclidean algorithm)](https://en.wikipedia.org/wiki/Euclidean_algorithm), [[code]](math/gcd.cpp)
     - [最小公倍数(Least common multiple)](https://en.wikipedia.org/wiki/Least_common_multiple), [[code]](math/lcm.cpp)
     - [ニュートン法(Newton's method)](https://en.wikipedia.org/wiki/Newton%27s_method), [[code]](math/newton.cpp)
