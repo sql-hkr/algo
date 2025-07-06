@@ -19,6 +19,7 @@
     - [幅優先探索(Breadth-first search)](https://en.wikipedia.org/wiki/Breadth-first_search), [[code]](search/bfs.cpp)
 - 動的計画法
     - [0-1 ナップサック問題(0-1 knapsack problem)](https://en.wikipedia.org/wiki/Knapsack_problem), [[code]](dp/knapsack.cpp)
+    - [部分和問題(Subset sum problem)](https://en.wikipedia.org/wiki/Subset_sum_problem), [[code]](dp/subset_sum.cpp)
 - ソート
     - [バブルソート(Bubble sort)](https://en.wikipedia.org/wiki/Bubble_sort), [[code]](sorting/bubble_sort.cpp)
     - [選択ソート(Selection sort)](https://en.wikipedia.org/wiki/Selection_sort), [[code]](sorting/selection_sort.cpp)
