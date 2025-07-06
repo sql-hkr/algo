@@ -33,3 +33,10 @@
     - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm), [[code]](graph/a-star.cpp)
 - 暗号
     - [RSA暗号(RSA cryptosystem)](https://en.wikipedia.org/wiki/RSA_cryptosystem), [[code]](crypto/rsa.cpp)
+
+## 環境構築
+[Docker](https://www.docker.com/)を用いて環境構築する場合：
+```bash
+docker compose build
+docker compose run dev bash
+``` 
