@@ -15,11 +15,12 @@
 - 探索
     - [線形探索(Linear search)](https://en.wikipedia.org/wiki/Linear_search), [[code]](search/linear_search.cpp)
     - [二分探索(Binary search)](https://en.wikipedia.org/wiki/Binary_search), [[code]](search/binary_search.cpp)
-    - [深さ優先探索(Depth-first search)](https://en.wikipedia.org/wiki/Depth-first_search), [[code]](search/dfs.cpp)
-    - [幅優先探索(Breadth-first search)](https://en.wikipedia.org/wiki/Breadth-first_search), [[code]](search/bfs.cpp)
+    - [深さ優先探索(DFS; Depth-first search)](https://en.wikipedia.org/wiki/Depth-first_search), [[code]](search/dfs.cpp)
+    - [幅優先探索(BFS; Breadth-first search)](https://en.wikipedia.org/wiki/Breadth-first_search), [[code]](search/bfs.cpp)
 - 動的計画法
     - [0-1 ナップサック問題(0-1 knapsack problem)](https://en.wikipedia.org/wiki/Knapsack_problem), [[code]](dp/knapsack.cpp)
     - [部分和問題(Subset sum problem)](https://en.wikipedia.org/wiki/Subset_sum_problem), [[code]](dp/subset_sum.cpp)
+    - [最長共通部分列問題(LCS; Longest common subsequence)](https://en.wikipedia.org/wiki/Longest_common_subsequence), [[code]](dp/lcs.cpp)
 - ソート
     - [バブルソート(Bubble sort)](https://en.wikipedia.org/wiki/Bubble_sort), [[code]](sorting/bubble_sort.cpp)
     - [選択ソート(Selection sort)](https://en.wikipedia.org/wiki/Selection_sort), [[code]](sorting/selection_sort.cpp)
