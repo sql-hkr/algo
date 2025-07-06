@@ -17,6 +17,8 @@
     - [二分探索(Binary search)](https://en.wikipedia.org/wiki/Binary_search), [[code]](search/binary_search.cpp)
     - [深さ優先探索(Depth-first search)](https://en.wikipedia.org/wiki/Depth-first_search), [[code]](search/dfs.cpp)
     - [幅優先探索(Breadth-first search)](https://en.wikipedia.org/wiki/Breadth-first_search), [[code]](search/bfs.cpp)
+- 動的計画法
+    - [0-1 ナップサック問題(0-1 knapsack problem)](https://en.wikipedia.org/wiki/Knapsack_problem), [[code]](dp/knapsack.cpp)
 - ソート
     - [バブルソート(Bubble sort)](https://en.wikipedia.org/wiki/Bubble_sort), [[code]](sorting/bubble_sort.cpp)
     - [選択ソート(Selection sort)](https://en.wikipedia.org/wiki/Selection_sort), [[code]](sorting/selection_sort.cpp)
