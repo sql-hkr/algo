@@ -16,6 +16,7 @@
 - 探索
     - [線形探索(Linear search)](https://en.wikipedia.org/wiki/Linear_search), [[code]](search/linear_search.cpp)
     - [二分探索(Binary search)](https://en.wikipedia.org/wiki/Binary_search), [[code]](search/binary_search.cpp)
+    - [三分探索(Ternary search)](https://en.wikipedia.org/wiki/Ternary_search), [[code]](search/ternary_search.cpp)
     - [深さ優先探索(DFS; Depth-first search)](https://en.wikipedia.org/wiki/Depth-first_search), [[code]](search/dfs.cpp)
     - [幅優先探索(BFS; Breadth-first search)](https://en.wikipedia.org/wiki/Breadth-first_search), [[code]](search/bfs.cpp)
 - 動的計画法
