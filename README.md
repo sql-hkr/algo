@@ -24,6 +24,7 @@
     - [部分和問題(SSP; Subset sum problem)](https://en.wikipedia.org/wiki/Subset_sum_problem), [[code]](dp/subset_sum.cpp)
     - [最長共通部分列問題(LCS; Longest common subsequence)](https://en.wikipedia.org/wiki/Longest_common_subsequence), [[code]](dp/lcs.cpp)
     - ロッド切り出し問題(Rod Cutting Problem), [[code]](dp/rod_cutting.cpp)
+    - Coin Change Problem, [[code]](dp/coin_change.cpp)
 - ソート
     - [バブルソート(Bubble sort)](https://en.wikipedia.org/wiki/Bubble_sort), [[code]](sorting/bubble_sort.cpp)
     - [選択ソート(Selection sort)](https://en.wikipedia.org/wiki/Selection_sort), [[code]](sorting/selection_sort.cpp)
