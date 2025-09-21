@@ -34,6 +34,7 @@
     - [マージソート(Merge sort)](https://en.wikipedia.org/wiki/Merge_sort), [[code]](sorting/merge_sort.cpp)
 - グラフ理論における最短経路問題
     - [ダイクストラ法(Dijkstra's algorithm)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), [[code]](graph/dijstra.cpp)
+    - [ワーシャル–フロイド法(Floyd–Warshall algorithm)](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm),[[code]](graph/floyd–warshall.cpp)
     - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm), [[code]](graph/a-star.cpp)
 - 暗号
     - [RSA暗号(RSA cryptosystem)](https://en.wikipedia.org/wiki/RSA_cryptosystem), [[code]](crypto/rsa.cpp)
