@@ -37,6 +37,7 @@
     - [ワーシャル–フロイド法(Floyd–Warshall algorithm)](https://en.wikipedia.org/wiki/Floyd–Warshall_algorithm),[[code]](graph/floyd–warshall.cpp)
     - [A*](https://en.wikipedia.org/wiki/A*_search_algorithm), [[code]](graph/a-star.cpp)
 - 暗号
+    - [XOR暗号(XOR cipher)](https://en.wikipedia.org/wiki/XOR_cipher), [[code]](crypto/xor.cpp)
     - [RSA暗号(RSA cryptosystem)](https://en.wikipedia.org/wiki/RSA_cryptosystem), [[code]](crypto/rsa.cpp)
 
 ## 環境構築
