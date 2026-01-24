@@ -13,6 +13,7 @@
     - [オイラー法(Euler method)](https://en.wikipedia.org/wiki/Euler_method), [[code]](math/euler.cpp)
     - [ルンゲ＝クッタ法(Runge–Kutta methods)](https://en.wikipedia.org/wiki/Runge–Kutta_methods), [[code]](math/rungekutta.cpp)
     - [離散フーリエ変換(DFT; Discrete Fourier transform)](https://en.wikipedia.org/wiki/Discrete_Fourier_transform), [[code]](math/dft.cpp)
+    - [ベイリー＝ボールウェイン＝プラウフの公式(Bailey–Borwein–Plouffe formula)](https://en.wikipedia.org/wiki/Bailey–Borwein–Plouffe_formula), [[code](math/bbp.cpp)]
 - 探索
     - [線形探索(Linear search)](https://en.wikipedia.org/wiki/Linear_search), [[code]](search/linear_search.cpp)
     - [二分探索(Binary search)](https://en.wikipedia.org/wiki/Binary_search), [[code]](search/binary_search.cpp)
