@@ -10,6 +10,7 @@
     - [ニュートン法(Newton's method)](https://en.wikipedia.org/wiki/Newton%27s_method), [[code]](math/newton.cpp)
     - [ガウスの消去法(Gaussian elimination)](https://en.wikipedia.org/wiki/Gaussian_elimination), [[code]](math/gauss.cpp)
     - [LU分解(LU decomposition)](https://en.wikipedia.org/wiki/LU_decomposition), [[code]](math/lu.cpp)
+    - [特異値分解(Singular value decomposition; SVD)](https://en.wikipedia.org/wiki/Singular_value_decomposition), [[code]](math/svd.cpp)
     - [素数判定法(Primality test)](https://en.wikipedia.org/wiki/Primality_test), [[code]](math/check_prime.cpp)
     - [オイラー法(Euler method)](https://en.wikipedia.org/wiki/Euler_method), [[code]](math/euler.cpp)
     - [ルンゲ＝クッタ法(Runge–Kutta methods)](https://en.wikipedia.org/wiki/Runge–Kutta_methods), [[code]](math/rungekutta.cpp)
